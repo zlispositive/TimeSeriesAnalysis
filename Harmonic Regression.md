@@ -1,0 +1,1 @@
+When time series is affected by seasonlly varying factors, whose effect can be modeled by a periodic component with fixed known period. 
